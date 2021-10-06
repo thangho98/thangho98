@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thangho98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thangho98)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://app.daily.dev/thangho98"><img src="https://github.com/thangho98/thangho98/blob/main/devcard.svg" width="400" alt="thăng's Dev Card"/></a>
