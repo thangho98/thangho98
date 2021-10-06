@@ -15,9 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/thangho98"><img src="https://api.daily.dev/devcards/f60fa402ebd24e01bb3abcc5249594a0.png?r=gfz" width="400" alt="thăng's Dev Card"/></a>
-function getUsers() {
-  fetch("http://jsonplaceholder.typicode.com/users")
-    .then(res => res.json())
-    .then(data => console.log(data));
-}
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=thangho98&theme=dracula" />
+<a href="https://app.daily.dev/thangho98"><img src="https://github.com/thangho98/thangho98/blob/main/devcard.svg" width="400" alt="thăng's Dev Card"/></a>
