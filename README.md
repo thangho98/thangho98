@@ -67,12 +67,14 @@ currently:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thangho98&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2CF785&icon_color=2CF785&text_color=FFFFFF&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thangho98&theme=radical&hide_border=true&background=0D1117&ring=2CF785&fire=2CF785&currStreakLabel=2CF785" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thangho98&theme=radical" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangho98&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2CF785&text_color=FFFFFF" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thangho98&theme=radical" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thangho98&theme=radical" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thangho98&theme=radical" />
 </div>
 
 <br/>
@@ -88,16 +90,18 @@ currently:
 ## 📊 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thangho98&bg_color=0D1117&color=2CF785&line=2CF785&point=FFFFFF&area_color=2CF785&area=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thangho98&theme=radical" />
 </div>
 
 <br/>
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thangho98/thangho98/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thangho98/thangho98/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thangho98/thangho98/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/thangho98/thangho98/output/github-snake-dark.svg" />
+</picture>
 
 <br/>
 
