@@ -1,97 +1,119 @@
-### Hi there, I'm Thangho ✔️
+<div align="center">
 
-> [![View count](https://visitcount.itsvg.in/api?id=thangho98&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=thangho98)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thang%20Ho&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20from%20Vietnam&descSize=18&descAlignY=52)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2CF785&center=true&vCenter=true&random=false&width=520&lines=Backend+Developer+%7C+System+Design;Node.js+%7C+NestJS+%7C+TypeScript;Building+scalable+%26+reliable+systems;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF785&width=435&lines=I'm+a+backend+developer"></p>
+</div>
 
-- 🇻🇳 : I'm from VietNam
-- 📧 : Contact me at [thanglong2098@gmail.com](mailto:thanglong2098@gmail.com)
-- ❤️ : I'm passionate about:
-  - 🪐 Operating Systems (Macos & Linux)
-  - 🖥️ Website Developer
-
-<!-- ### 🌐 Socials
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![Facebook](https://www.facebook.com/Thang.HoThai/)] -->
-
-### 🛠 Languages and Tools
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" title="TypeScript" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" title="Node.js" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" title="Express.js" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E84D3D" title="NestJS" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" title="MongoDB" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Postgre%20Sql-282C34?logo=postgresql" title="Postgresql" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Postgre%20Sql-282C34?logo=mysql" title="Mysql" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" title="ESLint" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/> &nbsp;
-
-
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=thangho98&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=thangho98)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangho98&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=thangho98)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
+```yaml
+name: Thang Ho
+location: Vietnam 🇻🇳
+role: Backend Developer
+email: thanglong2098@gmail.com
 
-*User achievement statistics by [Github Trophies](https://github.com/thangho98/github-trophies)*
+passions:
+  - Building robust backend systems
+  - Operating Systems (macOS & Linux)
+  - Web Development
+  - Clean Architecture & Design Patterns
 
-### 📈 User Statistics
+currently:
+  - Exploring system design & microservices
+  - Deep diving into cloud infrastructure
+```
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=thangho98">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=thangho98&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thangho98">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thangho98&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
 
-<table>
-  <tbody>
-    <tr>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thangho98">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thangho98&theme=dracula"/>
-        </a>
-      </th>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thangho98&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thangho98&theme=dracula"/>
-        </a>
-      </th>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thangho98">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thangho98&theme=dracula"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thangho98">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thangho98&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thangho98&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2CF785&icon_color=2CF785&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thangho98&theme=radical&hide_border=true&background=0D1117&ring=2CF785&fire=2CF785&currStreakLabel=2CF785" />
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangho98&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2CF785&text_color=FFFFFF" />
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thangho98&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
+
+<br/>
+
+## 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thangho98&bg_color=0D1117&color=2CF785&line=2CF785&point=FFFFFF&area_color=2CF785&area=true&hide_border=true" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thangho98/thangho98/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanglong2098@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thangho98)
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=thangho98&icon=6&color=3)](https://visitcount.itsvg.in)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
