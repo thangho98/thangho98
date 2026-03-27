@@ -79,10 +79,10 @@ currently:
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thangho98&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=thangho98&data=followers,repositories,stars,commits&theme=radical" />
 </div>
 
 <br/>
