@@ -61,22 +61,22 @@ var me = Engineer{
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 [Velox](https://github.com/thangho98/Velox)
+### 🎬 [Velox](https://github.com/oh-my-oops/Velox)
 Self-hosted media server for movies & TV — think Jellyfin/Emby, but faster, simpler, built from scratch.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Stars](https://img.shields.io/github/stars/thangho98/Velox?style=flat-square&color=fbbf24&labelColor=0b1020)
+![Stars](https://img.shields.io/github/stars/oh-my-oops/Velox?style=flat-square&color=fbbf24&labelColor=0b1020)
 
 </td>
 <td width="50%" valign="top">
 
-### 📸 [shotr](https://github.com/thangho98/shotr)
+### 📸 [shotr](https://github.com/oh-my-oops/shotr)
 Screenshot beautifier for Linux, Windows & macOS — capture, annotate, redact, export. All on-device.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![egui](https://img.shields.io/badge/egui-native_UI-f472b6?style=flat-square&labelColor=0b1020)
-![Stars](https://img.shields.io/github/stars/thangho98/shotr?style=flat-square&color=fbbf24&labelColor=0b1020)
+![Stars](https://img.shields.io/github/stars/oh-my-oops/shotr?style=flat-square&color=fbbf24&labelColor=0b1020)
 
 </td>
 </tr>
@@ -93,7 +93,7 @@ Web UI for Claude Code CLI — chat, browse files, resume sessions from your pho
 <td width="50%" valign="top">
 
 ### 🤖 MCP servers for the homelab
-Let AI agents drive real infra: [Nginx Proxy Manager](https://github.com/thangho98/npm-mcp-server) · [Cloudflare](https://github.com/thangho98/cloudflare-mcp) · [Uptime Kuma](https://github.com/thangho98/uptime-kuma-mcp)
+Let AI agents drive real infra: [Nginx Proxy Manager](https://github.com/oh-my-oops/npm-mcp-server) · [Cloudflare](https://github.com/oh-my-oops/cloudflare-mcp) · [Uptime Kuma](https://github.com/oh-my-oops/uptime-kuma-mcp)
 
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-a78bfa?style=flat-square&labelColor=0b1020)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
